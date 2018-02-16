@@ -4,22 +4,22 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+Feb 14, 2018
 
 ### Student Name:  
-(First and Last Name)
+Nicholas Howorth
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project was designed to help give use a better understanding of how basic js methods
+can make our webpages more intereactive.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://nhoworth.github.io/lesson4_javascript/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. all inputs from a user will be read as strings and need a type conversion for integers and other data types
+2. always declare variables properly, global variables can will make debugging a pain when you assumed they are local 
+3. I need to beef up on my html/css
 
 
 
